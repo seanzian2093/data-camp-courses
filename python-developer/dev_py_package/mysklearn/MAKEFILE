@@ -1,0 +1,12 @@
+dist: ## builds the package
+	python3 setup.py sdist bdist_wheel
+clean-build: ## cleans the build directory
+	rm -rf build/
+	rm -rf dist/
+	rm -rf .eggs/
+test: ## runs the tests
+	pytest
+release: clean-build dist ## package and upload a release
+	twine upload dist/*
+# use `make dist` to build the package
+# use `make clean-build` to clean the directory after building the package
