@@ -1,0 +1,5 @@
+|User|Shrek|Coco|SwingKids|Sneakers|
+|JamesAlking|3|4|4|3|
+|ElviraMarroquin|4|5|null|2|
+|JackBauer|null|2|2|5|
+|JuliaJames|5|null|2|2|
