@@ -1,0 +1,512 @@
+firstname	lastname	university	university_shortname	university_city	function	organization	organization_sector
+Karl	Aberer	ETH Lausanne	EPF	Lausanne	Chairman of L3S Advisory Board	L3S Advisory Board	Education & research
+Karl	Aberer	ETH Lausanne	EPF	Lausanne	Member Conseil of Zeno-Karl Schindler Foundation	Zeno-Karl Schindler Foundation	Education & research
+Karl	Aberer	ETH Lausanne	EPF	Lausanne	Member of Conseil Fondation IDIAP	Fondation IDIAP	Education & research
+Karl	Aberer	ETH Lausanne	EPF	Lausanne	Panel Member 	SNF Ambizione Program	Education & research
+Reza Shokrollah	Abhari	ETH Zurich	ETH	Zurich	Aufsichtsratsmandat	PNE Wind AG	Energy, environment & mobility
+Georges	Abou Jaoudé	ETH Lausanne	EPF	Lausanne	Professeur invité (2 interventions d'une semaine)	Kazan Federal University, Russia	Education & research
+Hugues	Abriel	Uni Bern	UBE	Bern	NA	Cloetta Stiftung	Education & research
+Daniel	Aebersold	Uni Bern	UBE	Bern	NA	Berner Radium-Stiftung	Pharma & health
+Daniel	Aebersold	Uni Bern	UBE	Bern	NA	Janser Krebs-Stiftung	Pharma & health
+Daniel	Aebersold	Uni Bern	UBE	Bern	NA	SWAN Isotopen AG	Technology
+Christoph	Aebi	Uni Bern	UBE	Bern	NA	Bernische Stiftung für krebskranke Kinder und Jugendliche	Pharma & health
+Christoph	Aebi	Uni Bern	UBE	Bern	NA	Ronald McDonald Stiftung	Society, Social, Culture & Sports
+Marcelo	Aebi	Uni Lausanne	ULA	Lausanne	NA	Activités académiques	Education & research
+Patrick	Aebischer	ETH Lausanne	EPF	Lausanne	Beirat	Singapore International Advisory Committee for Biomedical Sciences	Education & research
+Patrick	Aebischer	ETH Lausanne	EPF	Lausanne	Chairman, Beirat	Advisory Board Novartis Venture Fund	Financial industry & insurances
+Patrick	Aebischer	ETH Lausanne	EPF	Lausanne	Founder & Chairman of the BOD 	Amazentis	Technology
+Patrick	Aebischer	ETH Lausanne	EPF	Lausanne	NA	Fondation Claude Nobs	Society, Social, Culture & Sports
+Patrick	Aebischer	ETH Lausanne	EPF	Lausanne	NA	Fondation Terre des Hommes	Politics, administration, justice system & security sector
+Patrick	Aebischer	ETH Lausanne	EPF	Lausanne	NA	Italian Institute of Technology 	Education & research
+Patrick	Aebischer	ETH Lausanne	EPF	Lausanne	NA	Singapore Biomedical Sciences International 	Education & research
+Patrick	Aebischer	ETH Lausanne	EPF	Lausanne	NA	World Economic Forum	Commerce, trade & services
+Patrick	Aebischer	ETH Lausanne	EPF	Lausanne	Part of the presidential duties	CSEM	Education & research
+Patrick	Aebischer	ETH Lausanne	EPF	Lausanne	Part of the presidential duties	Fondation Brocher	Education & research
+Patrick	Aebischer	ETH Lausanne	EPF	Lausanne	Part of the presidential duties	Fondation Campus Biotech Geneva	Education & research
+Patrick	Aebischer	ETH Lausanne	EPF	Lausanne	Part of the presidential duties	Fondation Claude Verdan	Society, Social, Culture & Sports
+Patrick	Aebischer	ETH Lausanne	EPF	Lausanne	Part of the presidential duties	Fondation EPFL+	Education & research
+Patrick	Aebischer	ETH Lausanne	EPF	Lausanne	Part of the presidential duties	Fondation les Bois Chamblard	Education & research
+Patrick	Aebischer	ETH Lausanne	EPF	Lausanne	Part of the presidential duties	Fondation pour l'étude des eaux du Léman	Education & research
+Patrick	Aebischer	ETH Lausanne	EPF	Lausanne	Part of the presidential duties	Fondation pour la formation continue lausannoise	Education & research
+Patrick	Aebischer	ETH Lausanne	EPF	Lausanne	Verwaltungsrat	Lonza Group	Technology
+Patrick	Aebischer	ETH Lausanne	EPF	Lausanne	Verwaltungsrat	Nestlé	Industry, construction & agriculture
+Stephan	Aier	Uni St. Gallen	USG	Saint Gallen	Beratung und Veranstaltungen im Bereich Enterprise Architecture Management	TWZ GmbH	Not classifiable
+Stephan	Aier	Uni St. Gallen	USG	Saint Gallen	Lehrauftrag Enterprise Architecture	Reykjavik University	Education & research
+Anastasia	Ailamaki	ETH Lausanne	EPF	Lausanne	Consulting on data mgmt	S2P Lion, Germany	Not classifiable
+Cesla	Amarelle	Uni Neuenburg	UNE	Neuchâtel	Mandat	Nationalrat	Politics, administration, justice system & security sector
+Manuel	Ammann	Uni St. Gallen	USG	Saint Gallen	Verwaltungsrat	Neue Bank AG	Financial industry & insurances
+Manuel	Ammann	Uni St. Gallen	USG	Saint Gallen	Verwaltungsrat	St. Gallen Kantonalbank AG	Financial industry & insurances
+Manuel	Ammann	Uni St. Gallen	USG	Saint Gallen	Verwaltungsratspräsident	Algofin AG	Consulting, public relations, legal & trust
+Christophe	Ancey	ETH Lausanne	EPF	Lausanne	Prise en compte du risque de reptation sur la télécabine du Lys, pylônes P9-11	Espace Cauterets, Mairie, Cauterets	Politics, administration, justice system & security sector
+Marilyne	Andersen	ETH Lausanne	EPF	Lausanne	Board member	ECOVEST SA	Commerce, trade & services
+Marilyne	Andersen	ETH Lausanne	EPF	Lausanne	Member of Industry Agenda Council for Real Estate and Urbanization	World Economic Forum	Commerce, trade & services
+Jean-Marie	Annoni	Uni Freiburg	UFR	Fribourg	Neurologe	Freiburger Spital	Pharma & health
+John	Antonakis	Uni Lausanne	ULA	Lausanne	NA	Activités académiques	Education & research
+Omid	Aschari	Uni St. Gallen	USG	Saint Gallen	Mitglied	Nationaler Geistiger Rat der Bahá'í der Schweiz	Society, Social, Culture & Sports
+Omid	Aschari	Uni St. Gallen	USG	Saint Gallen	Verwaltungsratspräsident und Gründer	ASG Strategy Group AG	Consulting, public relations, legal & trust
+David	Atienza Alonso	ETH Lausanne	EPF	Lausanne	Consultancy on embedded systems uses for swallowing and chewing monitoring	Nestec SA	Industry, construction & agriculture
+Jean-Jacques	Aubert	Uni Neuenburg	UNE	Neuchâtel	Député	Grand Conseil NE	Politics, administration, justice system & security sector
+Jean-Jacques	Aubert	Uni Neuenburg	UNE	Neuchâtel	Vice-président	Académie suisse des sciences humaines et sociales	Society, Social, Culture & Sports
+Drahomir	Aujesky	Uni Bern	UBE	Bern	NA	Schweizerische Gesellschaft für allgemeine innere Medizin	Pharma & health
+Johan	Auwerx	ETH Lausanne	EPF	Lausanne	Biomedical consulting - Founder and BOD (Director - approved by EPFL)	Reamol Biomedical Consultung, Buchillon, CH	Consulting, public relations, legal & trust
+Johan	Auwerx	ETH Lausanne	EPF	Lausanne	Mitochondrial metabolism and deseases - Founder & SAB member	Mitobridge, Cambridge, MA, USA	Technology
+Johan	Auwerx	ETH Lausanne	EPF	Lausanne	NAD metabolism - SAB member	Metro Mid-Atalantic Biotech, Birmingham, MI, USA	Technology
+Johan	Auwerx	ETH Lausanne	EPF	Lausanne	Nutraceuticals - SAB member	Amazentis, Ecublens, Switzerland	Technology
+Johan	Auwerx	ETH Lausanne	EPF	Lausanne	Nutrition & Phytochemistry - Founder & Consultant	PhytoDia, Illkirch, France	Pharma & health
+François	Avellan	ETH Lausanne	EPF	Lausanne	Associé minoritaire dans la start-up d'un ancien doctorant	Power Vision Engineering Sàrl, Ecublens	Industry, construction & agriculture
+François	Avellan	ETH Lausanne	EPF	Lausanne	Expertise du rendement des turbines de la centrale de La Higuera, Chili, dans le cadre d'une procédure juridique	Barros, Letelier & Gonzalez Attorneys at Law, Chile	Consulting, public relations, legal & trust
+Kay Werner	Axhausen	ETH Zurich	ETH	Zurich	VR-Mandat der Spin-Off-Firma	Senozon (Schweiz) AG	Consulting, public relations, legal & trust
+Philippe	Bacchetta	Uni Lausanne	ULA	Lausanne	NA	Activités académiques	Education & research
+Andrea	Back	Uni St. Gallen	USG	Saint Gallen	Beirätin	Crosswalk AG	Consulting, public relations, legal & trust
+Andrea	Back	Uni St. Gallen	USG	Saint Gallen	Beirätin, Beratung	CID GmbH	Technology
+Andrea	Back	Uni St. Gallen	USG	Saint Gallen	Gutachterin	Marie Heim-Vögtlin-Programm des Schweizerischen Nationalfonds, Abteilung Geistes- und Sozialwissenschaften	Education & research
+Andrea	Back	Uni St. Gallen	USG	Saint Gallen	Wissenschaftliche Beirätin	Leibniz-Informationszentrum Wirtschaft	Education & research
+Marco	Bakker	ETH Lausanne	EPF	Lausanne	CEO, Architect	Bakker & Blanc Architectes Lausanne, Zurich	Industry, construction & agriculture
+Artur	Baldauf	Uni Bern	UBE	Bern	NA	International School of Bern	Education & research
+Artur	Baldauf	Uni Bern	UBE	Bern	NA	Securitas AG	Politics, administration, justice system & security sector
+Christophe	Ballif	ETH Lausanne	EPF	Lausanne	Chef de division CSEM PV-center, officiellement depuis 1.10.2012	CSEM, Neuchâtel	Education & research
+Christophe	Ballif	ETH Lausanne	EPF	Lausanne	Consultant technologique et membre du conseil d'administration	Asgalium Unitec SA, Cortaillod	Industry, construction & agriculture
+Christophe	Ballif	ETH Lausanne	EPF	Lausanne	Membre comité de conseil Active Niche Funds (fonds dédié au Solaire)	ANF SA, Lausanne	Financial industry & insurances
+Christophe	Ballif	ETH Lausanne	EPF	Lausanne	Panel, clean energy research program, Singapour	Economic development Board (EDB), Raffles Tower, Singapour	Commerce, trade & services
+Yann	Barrandon	Uni Lausanne	ULA	Lausanne	Conseil d'administration 	gyMetrics SA, Ecublens	Technology
+Yann	Barrandon	Uni Lausanne	ULA	Lausanne	Consultant	A*Star IMB Biopolis, Singapour	Education & research
+David Andrew	Barry	ETH Lausanne	EPF	Lausanne	Co-Editor	Advances in Water Resources (Elsevier Journal)	Media & communication
+David Andrew	Barry	ETH Lausanne	EPF	Lausanne	Fellowships Committee	Royal Society of Edinburgh, UK	Education & research
+David Andrew	Barry	ETH Lausanne	EPF	Lausanne	Member and expert to the Sinergia section	Swiss National Science Foundation - Sinergia	Education & research
+David Andrew	Barry	ETH Lausanne	EPF	Lausanne	Member of the SNF Council	Swiss National Science Foundation	Education & research
+David Andrew	Barry	ETH Lausanne	EPF	Lausanne	Visiting Professor	University of Edinburgh, UK	Education & research
+Pius Eliseo	Baschera	ETH Zurich	ETH	Zurich	VP des Beirates	ARDEX GmbH	Industry, construction & agriculture
+Pius Eliseo	Baschera	ETH Zurich	ETH	Zurich	VP des Beirates	Vorwerk & Co. KG	Commerce, trade & services
+Pius Eliseo	Baschera	ETH Zurich	ETH	Zurich	VR-Mandat	Roche Holding AG	Pharma & health
+Pius Eliseo	Baschera	ETH Zurich	ETH	Zurich	VR-Mandat	Schindler Holding AG	Industry, construction & agriculture
+Pius Eliseo	Baschera	ETH Zurich	ETH	Zurich	VR-Präsidium	Hilti AG	Industry, construction & agriculture
+Pius Eliseo	Baschera	ETH Zurich	ETH	Zurich	VR-Präsidium	Venture Incubator AG	Financial industry & insurances
+Andreas	Müller	ETH Zurich	ETH	Zurich	Verwaltungsrat	Novartis AG	Pharma & health
+Sarah	Weber	Uni Basel	UBA	Basel	Board Member	Swiss Re AG	Financial industry & insurances
+Thomas	Fischer	Uni Zurich	UZH	Zurich	Advisory Board Member	Credit Suisse Group AG	Financial industry & insurances
+Maria	Schneider	ETH Lausanne	EPF	Lausanne	Consultant	Nestlé Research Center	Industry, construction & agriculture
+Peter	Brunner	Uni Bern	UBE	Bern	Chairman	Swiss National Science Foundation	Education & research
+Anna	Keller	Uni St. Gallen	USG	Saint Gallen	Verwaltungsratspräsidentin	UBS Group AG	Financial industry & insurances
+Marc	Lehmann	Uni Geneva	UGE	Geneva	Founder & CEO	Biotech Geneva SA	Pharma & health
+Elena	Rossi	ETH Zurich	ETH	Zurich	Panel Member	European Research Council	Education & research
+David	Meier	Uni Lausanne	ULA	Lausanne	Member	Académie Suisse des Sciences Médicales	Pharma & health
+Sophie	Martin	Uni Freiburg	UFR	Fribourg	Beirätin	Lonza Group	Technology
+Michael	Schmid	ETH Lausanne	EPF	Lausanne	Scientific Advisor	Johnson & Johnson Innovation	Pharma & health
+Julia	Baumann	Uni Basel	UBA	Basel	Verwaltungsrat	Roche Holding AG	Pharma & health
+Robert	Zimmermann	ETH Zurich	ETH	Zurich	Board Member	ABB Ltd	Technology
+Lisa	Hoffmann	Uni Neuenburg	UNE	Neuchâtel	Consultant	World Health Organization	Politics, administration, justice system & security sector
+Frank	Wagner	Uni St. Gallen	USG	Saint Gallen	Verwaltungsrat	Zurich Insurance Group	Financial industry & insurances
+Carmen	López	Uni Geneva	UGE	Geneva	Advisory Board	CERN	Education & research
+Stefan	König	ETH Zurich	ETH	Zurich	Chairman	Swiss Federal Nuclear Safety Inspectorate	Politics, administration, justice system & security sector
+Nicole	Huber	Uni Bern	UBE	Bern	Board Member	Swiss Medical Association	Pharma & health
+Alessandro	Bianchi	ETH Lausanne	EPF	Lausanne	Founder	Solar Impulse Foundation	Energy, environment & mobility
+Katrin	Gerber	Uni Basel	UBA	Basel	Panel Member	Swiss Academy of Sciences	Education & research
+Philippe	Dubois	Uni Lausanne	ULA	Lausanne	Consultant	International Olympic Committee	Society, Social, Culture & Sports
+Hans	Steiner	ETH Zurich	ETH	Zurich	Verwaltungsrat	Swisscom AG	Technology
+Sabine	Graf	Uni St. Gallen	USG	Saint Gallen	Advisory Board Member	McKinsey & Company	Consulting, public relations, legal & trust
+Marco	Ferrari	Uni Lugano	USI	Lugano	Board Member	Credit Suisse Private Banking	Financial industry & insurances
+Christine	Wenger	Uni Freiburg	UFR	Fribourg	Scientific Advisor	Merck KGaA	Pharma & health
+Oliver	Sommer	ETH Zurich	ETH	Zurich	Founder & CTO	CleanTech Innovations AG	Energy, environment & mobility
+Francesca	Romano	Uni Geneva	UGE	Geneva	Member	United Nations Environment Programme	Politics, administration, justice system & security sector
+Markus	Niederer	Uni Bern	UBE	Bern	Verwaltungsrat	Bernexpo AG	Commerce, trade & services
+Patricia	Silva	ETH Lausanne	EPF	Lausanne	Consultant	Logitech International SA	Technology
+Andreas	Bachmann	Uni Basel	UBA	Basel	Board Member	Swiss Bankers Association	Financial industry & insurances
+Daniela	Kurz	Uni Zurich	UZH	Zurich	Scientific Advisory Board	Boehringer Ingelheim	Pharma & health
+Jean-Luc	Perret	Uni Lausanne	ULA	Lausanne	Conseil d'administration	Vaudoise Assurances	Financial industry & insurances
+Martin	Gross	ETH Zurich	ETH	Zurich	Panel Expert	Swiss National Science Foundation	Education & research
+Simone	Müller	Uni St. Gallen	USG	Saint Gallen	Beirätin	Boston Consulting Group	Consulting, public relations, legal & trust
+Luca	Bernasconi	Uni Lugano	USI	Lugano	Advisory Board	Banca Stato	Financial industry & insurances
+Barbara	Stäubli	Uni Basel	UBA	Basel	Verwaltungsrat	Clariant AG	Technology
+Viktor	Petrov	ETH Lausanne	EPF	Lausanne	Founder	Quantum Computing Ventures	Technology
+Anja	Koller	Uni Bern	UBE	Bern	Board Member	Swiss Cancer Research	Pharma & health
+François	Morel	Uni Geneva	UGE	Geneva	Consultant	International Committee of the Red Cross	Society, Social, Culture & Sports
+Reto	Amstutz	ETH Zurich	ETH	Zurich	Verwaltungsrat	Swiss Steel Holding AG	Industry, construction & agriculture
+Claudia	Richter	Uni Freiburg	UFR	Fribourg	Scientific Advisor	Pfizer Inc.	Pharma & health
+Giovanni	Martinelli	Uni Lugano	USI	Lugano	Board Member	Swissquote Bank	Financial industry & insurances
+Petra	Haas	Uni St. Gallen	USG	Saint Gallen	Verwaltungsratsmitglied	Helvetia Holding AG	Financial industry & insurances
+Thierry	Blanc	ETH Lausanne	EPF	Lausanne	Co-founder	MindMaze SA	Technology
+Ingrid	Zürcher	Uni Zurich	UZH	Zurich	Panel Member	European Medicines Agency	Pharma & health
+Carlo	Rossi	Uni Basel	UBA	Basel	Advisory Board	Biogen Idec	Pharma & health
+Susanne	Lüthi	Uni Bern	UBE	Bern	Verwaltungsrat	PostFinance AG	Financial industry & insurances
+Alexandre	Dubey	Uni Lausanne	ULA	Lausanne	Board Member	Vaud Economic Promotion	Commerce, trade & services
+Roland	Frei	ETH Zurich	ETH	Zurich	Chairman	Swiss Federal Institute of Metrology	Education & research
+Monica	Silva	Uni Geneva	UGE	Geneva	Consultant	World Trade Organization	Politics, administration, justice system & security sector
+Beat	Leuthold	Uni St. Gallen	USG	Saint Gallen	Verwaltungsrat	Galenica AG	Pharma & health
+Carla	Bettoni	ETH Lausanne	EPF	Lausanne	Scientific Advisor	L'Oréal Research & Innovation	Technology
+Jürgen	Klein	Uni Basel	UBA	Basel	Board Member	Syngenta AG	Industry, construction & agriculture
+Nadia	Comte	Uni Neuenburg	UNE	Neuchâtel	Conseil d'administration	Groupe Mutuel	Financial industry & insurances
+Stephan	Vogel	ETH Zurich	ETH	Zurich	Founder & CEO	Autonomous Systems Lab	Technology
+Patrizia	Gugger	Uni Freiburg	UFR	Fribourg	Advisory Board	Medtronic International	Pharma & health
+Matthias	Jung	Uni Bern	UBE	Bern	Verwaltungsrat	Swisslife AG	Financial industry & insurances
+Isabelle	Moreau	Uni Geneva	UGE	Geneva	Member	International Labour Organization	Politics, administration, justice system & security sector
+Christian	Wyss	Uni St. Gallen	USG	Saint Gallen	Board Member	Credit Suisse Asset Management	Financial industry & insurances
+Laura	Colombo	Uni Lugano	USI	Lugano	Consultant	Ernst & Young	Consulting, public relations, legal & trust
+Dominik	Hauser	ETH Zurich	ETH	Zurich	Panel Member	Swiss Federal Energy Office	Energy, environment & mobility
+Véronique	Leroy	ETH Lausanne	EPF	Lausanne	Co-founder	Biomedical Diagnostics SA	Pharma & health
+René	Moser	Uni Basel	UBA	Basel	Verwaltungsrat	Swiss International Air Lines	Commerce, trade & services
+Silvia	Tremp	Uni Zurich	UZH	Zurich	Advisory Board	Roche Venture Fund	Financial industry & insurances
+Paolo	Gentile	Uni Lugano	USI	Lugano	Board Member	Banca del Sempione	Financial industry & insurances
+Katja	Brun	Uni Bern	UBE	Bern	Scientific Advisor	Actelion Pharmaceuticals	Pharma & health
+Alain	Mermoud	Uni Lausanne	ULA	Lausanne	Fondateur	Cybersecurity Advisory Group	Technology
+Werner	Staub	ETH Zurich	ETH	Zurich	Verwaltungsrat	Geberit AG	Industry, construction & agriculture
+Federica	Conti	Uni Geneva	UGE	Geneva	Consultant	United Nations Office at Geneva	Politics, administration, justice system & security sector
+Christoph	Brenner	Uni St. Gallen	USG	Saint Gallen	Verwaltungsrat	Julius Bär Group	Financial industry & insurances
+Brigitte	Amstutz	Uni Basel	UBA	Basel	Board Member	Swiss Academy of Medical Sciences	Pharma & health
+Giorgio	Marini	ETH Lausanne	EPF	Lausanne	Scientific Advisor	Merck Serono	Pharma & health
+Sandra	Neff	Uni Freiburg	UFR	Fribourg	Advisory Board	Debiopharm Group	Pharma & health
+Urs	Kaufmann	ETH Zurich	ETH	Zurich	Chairman	Swiss Federal Railways	Commerce, trade & services
+Marta	Gonzalez	Uni Geneva	UGE	Geneva	Member	International Telecommunication Union	Technology
+Franz	Keller	Uni Bern	UBE	Bern	Verwaltungsrat	Mobiliar Insurance Group	Financial industry & insurances
+Elisa	Torriani	Uni Lugano	USI	Lugano	Consultant	PwC Switzerland	Consulting, public relations, legal & trust
+Rolf	Weber	Uni St. Gallen	USG	Saint Gallen	Board Member	Baloise Group	Financial industry & insurances
+Catherine	Martin	ETH Lausanne	EPF	Lausanne	Co-founder	NanoLive SA	Technology
+Bruno	Salzmann	Uni Basel	UBA	Basel	Verwaltungsrat	Swiss Post	Commerce, trade & services
+Annette	Widmer	Uni Zurich	UZH	Zurich	Scientific Advisory Board	Idorsia Pharmaceuticals	Pharma & health
+Luigi	Benedetti	Uni Lugano	USI	Lugano	Board Member	Cornèr Banca SA	Financial industry & insurances
+Margrit	Hugentobler	ETH Zurich	ETH	Zurich	Panel Member	Swiss Federal Office for the Environment	Energy, environment & mobility
+Jean-Paul	Clozel	Uni Lausanne	ULA	Lausanne	Founder & CEO	Idorsia Pharmaceuticals	Pharma & health
+Klaus	Ritter	Uni St. Gallen	USG	Saint Gallen	Verwaltungsrat	Nationale Suisse Group	Financial industry & insurances
+Giulia	Ferro	Uni Geneva	UGE	Geneva	Consultant	European Organization for Nuclear Research	Education & research
+Marcel	Graf	Uni Bern	UBE	Bern	Board Member	Inselspital Bern	Pharma & health
+Sophie	Blum	ETH Lausanne	EPF	Lausanne	Scientific Advisor	ADC Therapeutics	Pharma & health
+Roberto	Castelli	Uni Lugano	USI	Lugano	Advisory Board	Banca del Ceresio	Financial industry & insurances
+Angela	Hofmann	Uni Basel	UBA	Basel	Verwaltungsrat	Straumann Holding AG	Pharma & health
+Pierre	Grandjean	Uni Neuenburg	UNE	Neuchâtel	Conseil d'administration	Banque Cantonale Neuchâteloise	Financial industry & insurances
+Dieter	Schmitt	ETH Zurich	ETH	Zurich	Founder & CTO	Climeworks AG	Energy, environment & mobility
+Lucia	Romano	Uni Geneva	UGE	Geneva	Member	World Intellectual Property Organization	Politics, administration, justice system & security sector
+Thomas	Brunner	Uni St. Gallen	USG	Saint Gallen	Verwaltungsrat	Helvetia Insurance	Financial industry & insurances
+Chiara	Bianchi	ETH Lausanne	EPF	Lausanne	Co-founder	Sophia Genetics	Technology
+Heinz	Müller	Uni Bern	UBE	Bern	Advisory Board	CSL Behring	Pharma & health
+Frédéric	Dufour	Uni Lausanne	ULA	Lausanne	Directeur	Fondation Leenaards	Society, Social, Culture & Sports
+Marco	Schmid	Uni Basel	UBA	Basel	Verwaltungsrat	Merian Iselin Klinik	Pharma & health
+Elisabeth	Kessler	ETH Zurich	ETH	Zurich	Board Member	Swiss Federal Nuclear Safety Inspectorate	Politics, administration, justice system & security sector
+Stefano	Moret	Uni Lugano	USI	Lugano	Audit Partner	KPMG AG	Consulting, public relations, legal & trust
+Anita	Rauch	Uni Zurich	UZH	Zurich	Diagnostic Research Director	Roche Diagnostics International Ltd.	Pharma & health
+Bernard	Levrat	Uni Geneva	UGE	Geneva	Directeur général	Hôpitaux Universitaires de Genève	Pharma & health
+Markus	Hengstschläger	Uni St. Gallen	USG	Saint Gallen	Board Member	Raiffeisen Switzerland	Financial industry & insurances
+Valentina	Greco	ETH Lausanne	EPF	Lausanne	Scientific Advisor	Galderma R&D	Pharma & health
+Philipp	Gut	Uni Bern	UBE	Bern	Verwaltungsrat	Bernische Kraftwerke AG	Energy, environment & mobility
+Céline	Robert	Uni Neuenburg	UNE	Neuchâtel	Membre du conseil	Microcity Foundation	Education & research
+Andrea	Carbone	Uni Lugano	USI	Lugano	Advisory Board	Credit Agricole Suisse	Financial industry & insurances
+Regula	Stämpfli	Uni Basel	UBA	Basel	Board Member	Swiss Society for Nutrition	Pharma & health
+Jean-Claude	Badoux	ETH Lausanne	EPF	Lausanne	Consultant	Logitech International	Technology
+Uwe	Sauer	ETH Zurich	ETH	Zurich	Scientific Advisor	DSM Nutritional Products	Industry, construction & agriculture
+Marie-France	Pochon	Uni Geneva	UGE	Geneva	Member	International Committee of the Red Cross	Society, Social, Culture & Sports
+Daniel	Buser	Uni Basel	UBA	Basel	Dental Implant Company Advisor	Institut Straumann AG	Pharma & health
+Claudio	Bassetti	Uni Bern	UBE	Bern	Neurology Society President	Swiss Neurological Society	Pharma & health
+Yves	Miéville	Uni Lausanne	ULA	Lausanne	Administrateur	Vaudoise Assurances	Financial industry & insurances
+Sabina	Bieri	ETH Zurich	ETH	Zurich	Panel Member	Swiss Innovation Agency	Education & research
+Francesco	Stellacci	ETH Lausanne	EPF	Lausanne	Scientific Advisor	Spaemann AG	Technology
+Markus	Greber	Uni St. Gallen	USG	Saint Gallen	Verwaltungsrat	Allianz Suisse	Financial industry & insurances
+Carla	Spagnoli	Uni Lugano	USI	Lugano	Board Member	Banca Credinvest	Financial industry & insurances
+Ruth	Genner	Uni Zurich	UZH	Zurich	Nationalrätin	Swiss Parliament	Politics, administration, justice system & security sector
+Antoine	Geissbuhler	Uni Geneva	UGE	Geneva	Consultant	World Health Organization	Politics, administration, justice system & security sector
+Beat	Richner	Uni Basel	UBA	Basel	Pediatric Hospital Founder	Kantha Bopha Children's Hospitals	Society, Social, Culture & Sports
+Lorenz	Hurni	ETH Zurich	ETH	Zurich	Board Member	swisstopo	Politics, administration, justice system & security sector
+Nathalie	Chèvre	Uni Lausanne	ULA	Lausanne	Experte	Office fédéral de l'environnement	Energy, environment & mobility
+Rainer	Wodrich	Uni St. Gallen	USG	Saint Gallen	Verwaltungsrat	Bâloise Holding AG	Financial industry & insurances
+Giovanna	Rizzo	ETH Lausanne	EPF	Lausanne	Co-founder	Cellestia Biotech	Pharma & health
+Hannes	Germann	Uni Basel	UBA	Basel	Council of States Member	Swiss Federal Assembly	Politics, administration, justice system & security sector
+Felix	Würsten	ETH Zurich	ETH	Zurich	Verwaltungsrat	Swissgrid AG	Energy, environment & mobility
+Caroline	Vandevyver	Uni Geneva	UGE	Geneva	Member	International Air Transport Association	Commerce, trade & services
+Paolo	Arrigoni	Uni Lugano	USI	Lugano	Consultant	Deloitte Switzerland	Consulting, public relations, legal & trust
+Susanne	Bickel	Uni Basel	UBA	Basel	Board Member	Swiss Egyptological Society	Society, Social, Culture & Sports
+Christiane	Wendehorst	Uni St. Gallen	USG	Saint Gallen	Advisory Board	European Law Institute	Consulting, public relations, legal & trust
+Michel	Bierlaire	ETH Lausanne	EPF	Lausanne	Scientific Advisor	Transport Planning Methods	Consulting, public relations, legal & trust
+Walter	Steinlin	ETH Zurich	ETH	Zurich	Verwaltungsrat	Axpo Holding AG	Energy, environment & mobility
+Fabienne	Crettaz von Roten	Uni Lausanne	ULA	Lausanne	Membre	Science et Cité	Education & research
+Giovanna	Bochicchio	Uni Lugano	USI	Lugano	Board Member	Swiss Italian Chamber of Commerce	Commerce, trade & services
+Patricia	Danzi	Uni Geneva	UGE	Geneva	Directrice	Swiss Agency for Development and Cooperation	Politics, administration, justice system & security sector
+Michael	Hengartner	ETH Zurich	ETH	Zurich	Präsident	swissuniversities	Education & research
+Laurent	Mellier	Uni Lausanne	ULA	Lausanne	Directeur médical	Centre hospitalier universitaire vaudois	Pharma & health
+Sergio	Rossi	Uni Lugano	USI	Lugano	Economic Advisor	Banca del Gottardo	Financial industry & insurances
+Katharina	Fromm	Uni Freiburg	UFR	Fribourg	Vice-présidente	Académie suisse des sciences naturelles	Education & research
+Jean-Marc	Piveteau	ETH Zurich	ETH	Zurich	Verwaltungsrat	SBB Cargo AG	Commerce, trade & services
+Martine	Rebetez	Uni Neuenburg	UNE	Neuchâtel	Experte climatique	MétéoSuisse	Energy, environment & mobility
+Giuseppe	Melfi	Uni Lausanne	ULA	Lausanne	Professeur invité	Université de Tunis	Education & research
+Bruno	Staffelbach	Uni St. Gallen	USG	Saint Gallen	Verwaltungsrat	Mammut Sports Group AG	Commerce, trade & services
+Cristina	Amon	ETH Zurich	ETH	Zurich	Dean	University of Toronto	Education & research
+François	Bregha	Uni Geneva	UGE	Geneva	Senior Advisor	International Committee of the Red Cross	Society, Social, Culture & Sports
+Silvia	Decurtins	Uni Basel	UBA	Basel	Board Member	Swiss Chemical Society	Education & research
+Alessandro	Curioni	ETH Zurich	ETH	Zurich	Director	IBM Research Zurich	Technology
+Marie-Christine	Lemardeley	ETH Lausanne	EPF	Lausanne	Scientific Advisor	Firmenich SA	Technology
+Roberto	Bonzio	Uni Lugano	USI	Lugano	Advisory Board	Lugano Airport	Commerce, trade & services
+Heidi	Hanselmann	Uni St. Gallen	USG	Saint Gallen	Regierungsrätin	Kanton St. Gallen	Politics, administration, justice system & security sector
+Catherine	Deharveng	Uni Geneva	UGE	Geneva	Director	European Space Agency	Education & research
+Marcel	Salathé	ETH Lausanne	EPF	Lausanne	Co-founder	Epidemium Platform	Technology
+Stefan	Brupbacher	Uni Zurich	UZH	Zurich	CEO	InSphero AG	Pharma & health
+Raffaello	D'Andrea	ETH Zurich	ETH	Zurich	Co-founder	Kiva Systems	Technology
+Valérie	Chételat	Uni Neuenburg	UNE	Neuchâtel	Directrice	Musée d'art et d'histoire Neuchâtel	Society, Social, Culture & Sports
+Lukas	Bruhin	Uni St. Gallen	USG	Saint Gallen	Verwaltungsrat	Emmi AG	Industry, construction & agriculture
+Silvia	Arber	Uni Basel	UBA	Basel	Scientific Advisor	Biogen Inc.	Pharma & health
+François	Fleuret	ETH Lausanne	EPF	Lausanne	Research Scientist	Facebook AI Research	Technology
+Marina	Carobbio	Uni Lugano	USI	Lugano	Ständerätin	Swiss Parliament	Politics, administration, justice system & security sector
+Ernst	Hafen	ETH Zurich	ETH	Zurich	Founder	MIDATA Cooperative	Technology
+Christiane	Vejlupek	Uni Geneva	UGE	Geneva	Senior Advisor	United Nations High Commissioner for Refugees	Politics, administration, justice system & security sector
+Didier	Trono	ETH Lausanne	EPF	Lausanne	Scientific Advisor	Kromatid Inc.	Pharma & health
+Monica	Bianchi	Uni Lugano	USI	Lugano	Board Member	Banca Stato del Cantone Ticino	Financial industry & insurances
+Klaus	Schönenberger	Uni St. Gallen	USG	Saint Gallen	Verwaltungsrat	Schindler Holding AG	Industry, construction & agriculture
+Sabine	Süsstrunk	ETH Lausanne	EPF	Lausanne	Scientific Advisor	Adobe Systems	Technology
+Martin	Vetterli	ETH Lausanne	EPF	Lausanne	Board Member	Logitech International SA	Technology
+Laura	Baudis	Uni Zurich	UZH	Zurich	Member	XENON Collaboration	Education & research
+Giovanni	De Micheli	ETH Lausanne	EPF	Lausanne	Scientific Advisor	Synopsys Inc.	Technology
+Christine	Sempoux	Uni Lausanne	ULA	Lausanne	Pathologist	Centre hospitalier universitaire vaudois	Pharma & health
+Fabio	Crestani	Uni Lugano	USI	Lugano	Scientific Advisor	Google Research	Technology
+Bernhard	Wehrli	ETH Zurich	ETH	Zurich	Director	Eawag	Education & research
+Muriel	Richard-Lepouriel	Uni Geneva	UGE	Geneva	Judge	European Court of Human Rights	Politics, administration, justice system & security sector
+Alessandro	Ovi	ETH Lausanne	EPF	Lausanne	Editor-in-Chief	Techonomy Media	Media & communication
+Cesare	Carrero	Uni Lugano	USI	Lugano	Partner	Baker McKenzie	Consulting, public relations, legal & trust
+Thomas	Gerlach	Uni St. Gallen	USG	Saint Gallen	Verwaltungsrat	Swiss Prime Site AG	Industry, construction & agriculture
+Anne-Catherine	Lyon	Uni Lausanne	ULA	Lausanne	Conseillère d'État	Canton de Vaud	Politics, administration, justice system & security sector
+Lino	Guzzella	ETH Zurich	ETH	Zurich	President	Swiss Federal Institute of Technology Zurich	Education & research
+Pascale	Bruderer	Uni Basel	UBA	Basel	Nationalrätin	Swiss Parliament	Politics, administration, justice system & security sector
+Giovanni	Pellegri	Uni Lugano	USI	Lugano	Chairman	Banca del Sempione SA	Financial industry & insurances
+Matthias	Kaiserswerth	ETH Zurich	ETH	Zurich	Director	IBM Research Europe	Technology
+Philippe	Gillet	ETH Lausanne	EPF	Lausanne	Vice President	King Abdullah University of Science and Technology	Education & research
+Corine	Mauch	Uni Zurich	UZH	Zurich	Stadtpräsidentin	Stadt Zurich	Politics, administration, justice system & security sector
+Andrea	Togni	ETH Zurich	ETH	Zurich	Scientific Advisor	Syngenta Crop Protection	Industry, construction & agriculture
+Brigitte	Hauser-Süess	Uni St. Gallen	USG	Saint Gallen	Verwaltungsrätin	Kühne + Nagel International AG	Commerce, trade & services
+Jean-Daniel	Strub	Uni Basel	UBA	Basel	Director	Dignitas International	Society, Social, Culture & Sports
+Francesco	Mondada	ETH Lausanne	EPF	Lausanne	Co-founder	Mobsya Association	Education & research
+Nicola	Forster	Uni St. Gallen	USG	Saint Gallen	Co-founder	Foraus Swiss Forum on Foreign Policy	Politics, administration, justice system & security sector
+Katrin	Mühlemann	Uni Basel	UBA	Basel	Medical Director	University Hospital Basel	Pharma & health
+Roland	Siegwart	ETH Zurich	ETH	Zurich	Co-founder	Autonomous Systems Lab	Technology
+Martina	Hirayama	ETH Lausanne	EPF	Lausanne	State Secretary	State Secretariat for Education Research and Innovation	Politics, administration, justice system & security sector
+Claudia	Bagutti	Uni Lugano	USI	Lugano	Judge	Federal Supreme Court of Switzerland	Politics, administration, justice system & security sector
+Jan-Anders	Månson	ETH Lausanne	EPF	Lausanne	Scientific Advisor	9T Labs AG	Technology
+Susan	Gasser	Uni Basel	UBA	Basel	Director	Friedrich Miescher Institute for Biomedical Research	Education & research
+Konrad	Steffen	ETH Zurich	ETH	Zurich	Director	Swiss Federal Research Institute WSL	Education & research
+Isabelle	Mansuy	ETH Zurich	ETH	Zurich	Scientific Advisor	Roche Pharma Research	Pharma & health
+Patrick	Gagliardini	Uni Lugano	USI	Lugano	Research Director	Swiss Finance Institute	Education & research
+Martin	Janssen	ETH Zurich	ETH	Zurich	Co-founder	Actelion Pharmaceuticals	Pharma & health
+Catherine	Dargemont	Uni Geneva	UGE	Geneva	Scientific Director	Swiss National Science Foundation	Education & research
+Beat	Meier	Uni Basel	UBA	Basel	Medical Director	University Children's Hospital Basel	Pharma & health
+Dimos	Poulikakos	ETH Zurich	ETH	Zurich	Scientific Advisor	IBM Research	Technology
+Olivier	Français	ETH Lausanne	EPF	Lausanne	Co-founder	SensyVision AG	Technology
+Roberto	Weber	Uni Lugano	USI	Lugano	Economic Advisor	Credit Suisse Economic Research	Financial industry & insurances
+Heike	Riel	ETH Zurich	ETH	Zurich	Director	IBM Research Zurich	Technology
+Marco	Mazzotti	ETH Zurich	ETH	Zurich	Scientific Advisor	Nestlé Research Center	Industry, construction & agriculture
+Catherine	Tucker	Uni St. Gallen	USG	Saint Gallen	Research Affiliate	MIT Initiative on the Digital Economy	Education & research
+Nicola	Spaldin	ETH Zurich	ETH	Zurich	Scientific Advisor	Toyota Motor Europe	Technology
+Michèle	Loi	Uni Zurich	UZH	Zurich	Ethics Advisor	Swiss Federal Office of Public Health	Politics, administration, justice system & security sector
+Gunther	Dissertori	ETH Zurich	ETH	Zurich	Member	CERN Scientific Policy Committee	Education & research
+Jean-Pierre	Danthine	Uni Lausanne	ULA	Lausanne	Vice Chairman	Swiss National Bank	Financial industry & insurances
+Ursula	Keller	ETH Zurich	ETH	Zurich	Co-founder	Time-Bandwidth Products AG	Technology
+Marc	Gruber	ETH Lausanne	EPF	Lausanne	Academic Director	Ecole Polytechnique Fédérale de Lausanne	Education & research
+Sonia	Seneviratne	ETH Zurich	ETH	Zurich	Lead Author	Intergovernmental Panel on Climate Change	Energy, environment & mobility
+Andrea	Ferrari	ETH Zurich	ETH	Zurich	Director	Cambridge Graphene Centre	Education & research
+Silvia	Oppliger	Uni Basel	UBA	Basel	Medical Advisor	Swissmedic	Pharma & health
+Vincent	Kaufmann	ETH Lausanne	EPF	Lausanne	Research Director	École Polytechnique Fédérale de Lausanne	Education & research
+Thomas	Stöckli	Uni St. Gallen	USG	Saint Gallen	Ständerat	Swiss Parliament	Politics, administration, justice system & security sector
+Joachim	Buhmann	ETH Zurich	ETH	Zurich	Scientific Advisor	Google DeepMind	Technology
+Catherine	Bollard	Uni Geneva	UGE	Geneva	Governor	Reserve Bank of New Zealand	Financial industry & insurances
+Marcel	Tanner	Uni Basel	UBA	Basel	Director	Swiss Tropical and Public Health Institute	Pharma & health
+Jean-Christophe	Leroux	ETH Zurich	ETH	Zurich	Co-founder	Versantis AG	Pharma & health
+Alexandra	Brintrup	ETH Zurich	ETH	Zurich	Research Fellow	University of Cambridge	Education & research
+Mario	Gattiker	Uni St. Gallen	USG	Saint Gallen	State Secretary	State Secretariat for Migration	Politics, administration, justice system & security sector
+Renato	Zenobi	ETH Zurich	ETH	Zurich	Scientific Advisor	Mettler-Toledo International	Technology
+Françoise	Foliot-Borel	Uni Lausanne	ULA	Lausanne	Directrice médicale	Hôpital ophtalmique Jules-Gonin	Pharma & health
+Alessandro	Sforzini	Uni Lugano	USI	Lugano	Managing Director	Credit Suisse Private Banking	Financial industry & insurances
+Bernd	Gärtner	ETH Zurich	ETH	Zurich	Co-founder	GetYourGuide	Technology
+Kathryn	Hess	ETH Lausanne	EPF	Lausanne	Scientific Advisor	Blue Brain Project	Education & research
+Philippe	Thalmann	ETH Lausanne	EPF	Lausanne	Energy Expert	Swiss Federal Office of Energy	Energy, environment & mobility
+Sabine	Werner	ETH Zurich	ETH	Zurich	Scientific Advisor	Cutiss AG	Pharma & health
+Michael	Detmar	ETH Zurich	ETH	Zurich	Scientific Advisor	Molecular Partners AG	Pharma & health
+Aude	Billard	ETH Lausanne	EPF	Lausanne	Co-founder	BlueBotics SA	Technology
+Markus	Stoffel	ETH Zurich	ETH	Zurich	Scientific Advisor	Roche Diabetes Care	Pharma & health
+Claire	Wyart	Uni Geneva	UGE	Geneva	Research Director	Institut du Cerveau et de la Moelle épinière	Pharma & health
+Paolo	Ermanni	ETH Zurich	ETH	Zurich	Scientific Advisor	RUAG International	Industry, construction & agriculture
+Maryna	Viazovska	ETH Lausanne	EPF	Lausanne	Visiting Professor	Princeton University	Education & research
+Julia	Vorholt	ETH Zurich	ETH	Zurich	Scientific Advisor	Syngenta Biotechnology	Industry, construction & agriculture
+Georges	Wagnières	ETH Lausanne	EPF	Lausanne	Medical Advisor	Medlight SA	Pharma & health
+Wendelin	Werner	ETH Zurich	ETH	Zurich	Visiting Professor	University of Cambridge	Education & research
+Grégoire	Courtine	ETH Lausanne	EPF	Lausanne	Co-founder	GTXmedical	Pharma & health
+Thomas	Lumley	ETH Zurich	ETH	Zurich	Statistical Advisor	University of Auckland	Education & research
+Henning	Müller	Uni Geneva	UGE	Geneva	Scientific Advisor	Sophia Genetics SA	Technology
+Volker	Roth	Uni Basel	UBA	Basel	Security Advisor	IBM Research Zurich	Technology
+Fabrice	Schaller	ETH Lausanne	EPF	Lausanne	Engineering Director	Tesla Inc.	Industry, construction & agriculture
+Gisbert	Schneider	ETH Zurich	ETH	Zurich	Scientific Advisor	inSili.com LLC	Pharma & health
+Karl	Aberer	ETH Lausanne	EPF	Lausanne	Scientific Advisor	EPFL Innovation Park	Technology
+Reza Shokrollah	Abhari	ETH Zurich	ETH	Zurich	Technical Advisor	Alstom Power	Energy, environment & mobility
+Georges	Abou Jaoudé	ETH Lausanne	EPF	Lausanne	Visiting Professor	American University of Beirut	Education & research
+Hugues	Abriel	Uni Bern	UBE	Bern	Medical Advisor	Insel Gruppe AG	Pharma & health
+Daniel	Aebersold	Uni Bern	UBE	Bern	Medical Director	University Hospital Bern	Pharma & health
+Christoph	Aebi	Uni Bern	UBE	Bern	Pediatric Advisor	Swiss Pediatric Society	Pharma & health
+Marcelo	Aebi	Uni Lausanne	ULA	Lausanne	Research Director	Centre hospitalier universitaire vaudois	Pharma & health
+Patrick	Aebischer	ETH Lausanne	EPF	Lausanne	Scientific Advisor	Merck Ventures	Technology
+Stephan	Aier	Uni St. Gallen	USG	Saint Gallen	IT Consultant	Swisscom AG	Technology
+Anastasia	Ailamaki	ETH Lausanne	EPF	Lausanne	Co-founder	RAW Labs SA	Technology
+Cesla	Amarelle	Uni Neuenburg	UNE	Neuchâtel	Conseillère d'État	Canton de Vaud	Politics, administration, justice system & security sector
+Manuel	Ammann	Uni St. Gallen	USG	Saint Gallen	Financial Advisor	Swiss National Bank	Financial industry & insurances
+Christophe	Ancey	ETH Lausanne	EPF	Lausanne	Risk Assessment Expert	Swiss Federal Office for the Environment	Energy, environment & mobility
+Marilyne	Andersen	ETH Lausanne	EPF	Lausanne	Sustainability Advisor	International Energy Agency	Energy, environment & mobility
+Jean-Marie	Annoni	Uni Freiburg	UFR	Fribourg	Medical Director	Cantonal Hospital Fribourg	Pharma & health
+John	Antonakis	Uni Lausanne	ULA	Lausanne	Leadership Expert	World Economic Forum	Commerce, trade & services
+Omid	Aschari	Uni St. Gallen	USG	Saint Gallen	Strategic Advisor	McKinsey & Company Switzerland	Consulting, public relations, legal & trust
+David	Atienza Alonso	ETH Lausanne	EPF	Lausanne	Technical Advisor	ARM Holdings	Technology
+Jean-Jacques	Aubert	Uni Neuenburg	UNE	Neuchâtel	Legal Advisor	Swiss Federal Office of Justice	Politics, administration, justice system & security sector
+Drahomir	Aujesky	Uni Bern	UBE	Bern	Clinical Advisor	Swiss Medical Association	Pharma & health
+Johan	Auwerx	ETH Lausanne	EPF	Lausanne	Scientific Advisor	Elysium Health	Pharma & health
+François	Avellan	ETH Lausanne	EPF	Lausanne	Technical Expert	Voith Hydro	Energy, environment & mobility
+Kay Werner	Axhausen	ETH Zurich	ETH	Zurich	Transport Planner	Swiss Federal Railways	Commerce, trade & services
+Philippe	Bacchetta	Uni Lausanne	ULA	Lausanne	Economic Advisor	Swiss National Bank	Financial industry & insurances
+Andrea	Back	Uni St. Gallen	USG	Saint Gallen	Digital Strategy Advisor	Credit Suisse Group AG	Financial industry & insurances
+Marco	Bakker	ETH Lausanne	EPF	Lausanne	Principal Architect	Foster + Partners	Industry, construction & agriculture
+Artur	Baldauf	Uni Bern	UBE	Bern	Management Consultant	Boston Consulting Group	Consulting, public relations, legal & trust
+Christophe	Ballif	ETH Lausanne	EPF	Lausanne	Solar Energy Expert	International Energy Agency	Energy, environment & mobility
+Yann	Barrandon	Uni Lausanne	ULA	Lausanne	Scientific Advisor	L'Oréal Research & Innovation	Technology
+David Andrew	Barry	ETH Lausanne	EPF	Lausanne	Environmental Expert	United Nations Environment Programme	Politics, administration, justice system & security sector
+Pius Eliseo	Baschera	ETH Zurich	ETH	Zurich	Board Member	Swiss Chamber of Commerce	Commerce, trade & services
+Andreas	Müller	ETH Zurich	ETH	Zurich	Research Director	Paul Scherrer Institute	Education & research
+Sarah	Weber	Uni Basel	UBA	Basel	Medical Director	University Hospital Basel	Pharma & health
+Thomas	Fischer	Uni Zurich	UZH	Zurich	Financial Risk Expert	Swiss Financial Market Supervisory Authority	Financial industry & insurances
+Maria	Schneider	ETH Lausanne	EPF	Lausanne	Innovation Manager	Nestlé S.A.	Industry, construction & agriculture
+Peter	Brunner	Uni Bern	UBE	Bern	Research Coordinator	Swiss National Science Foundation	Education & research
+Anna	Keller	Uni St. Gallen	USG	Saint Gallen	Private Banking Director	Julius Bär Group Ltd.	Financial industry & insurances
+Marc	Lehmann	Uni Geneva	UGE	Geneva	Pharmaceutical Executive	Merck Group	Pharma & health
+Elena	Rossi	ETH Zurich	ETH	Zurich	Technology Transfer Manager	ETH Transfer	Technology
+David	Meier	Uni Lausanne	ULA	Lausanne	Hospital Administrator	Centre hospitalier universitaire vaudois	Pharma & health
+Sophie	Martin	Uni Freiburg	UFR	Fribourg	Biotechnology Consultant	Lonza Ltd.	Technology
+Michael	Schmid	ETH Lausanne	EPF	Lausanne	Drug Development Advisor	Novartis Institutes for BioMedical Research	Pharma & health
+Julia	Baumann	Uni Basel	UBA	Basel	Pharmaceutical Research Director	F. Hoffmann-La Roche Ltd.	Pharma & health
+Robert	Zimmermann	ETH Zurich	ETH	Zurich	Engineering Director	ABB Switzerland Ltd.	Technology
+Lisa	Hoffmann	Uni Neuenburg	UNE	Neuchâtel	Public Health Expert	Swiss Federal Office of Public Health	Politics, administration, justice system & security sector
+Frank	Wagner	Uni St. Gallen	USG	Saint Gallen	Insurance Executive	Zurich Insurance Company Ltd.	Financial industry & insurances
+Carmen	López	Uni Geneva	UGE	Geneva	Research Coordinator	European Organization for Nuclear Research	Education & research
+Stefan	König	ETH Zurich	ETH	Zurich	Nuclear Safety Expert	Swiss Federal Nuclear Safety Inspectorate	Politics, administration, justice system & security sector
+Nicole	Huber	Uni Bern	UBE	Bern	Healthcare Administrator	Swiss Medical Association	Pharma & health
+Alessandro	Bianchi	ETH Lausanne	EPF	Lausanne	Renewable Energy Consultant	Solar Impulse Foundation	Energy, environment & mobility
+Katrin	Gerber	Uni Basel	UBA	Basel	Science Policy Advisor	Swiss Academy of Sciences	Education & research
+Philippe	Dubois	Uni Lausanne	ULA	Lausanne	Sports Administration	International Olympic Committee	Society, Social, Culture & Sports
+Hans	Steiner	ETH Zurich	ETH	Zurich	Telecommunications Executive	Swisscom Ltd.	Technology
+Sabine	Graf	Uni St. Gallen	USG	Saint Gallen	Management Consultant	McKinsey & Company	Consulting, public relations, legal & trust
+Marco	Ferrari	Uni Lugano	USI	Lugano	Private Wealth Manager	Credit Suisse Group AG	Financial industry & insurances
+Christine	Wenger	Uni Freiburg	UFR	Fribourg	Pharmaceutical Researcher	Merck KGaA	Pharma & health
+Oliver	Sommer	ETH Zurich	ETH	Zurich	Clean Technology Entrepreneur	Climeworks AG	Energy, environment & mobility
+Francesca	Romano	Uni Geneva	UGE	Geneva	Environmental Policy Advisor	United Nations Environment Programme	Politics, administration, justice system & security sector
+Markus	Niederer	Uni Bern	UBE	Bern	Event Management Executive	BernExpo AG	Commerce, trade & services
+Patricia	Silva	ETH Lausanne	EPF	Lausanne	Technology Innovation Manager	Logitech International S.A.	Technology
+Andreas	Bachmann	Uni Basel	UBA	Basel	Banking Regulation Expert	Swiss Bankers Association	Financial industry & insurances
+Daniela	Kurz	Uni Zurich	UZH	Zurich	Biomedical Research Director	Boehringer Ingelheim	Pharma & health
+Jean-Luc	Perret	Uni Lausanne	ULA	Lausanne	Insurance Executive	Vaudoise Assurances Holding SA	Financial industry & insurances
+Martin	Gross	ETH Zurich	ETH	Zurich	Research Grant Evaluator	Swiss National Science Foundation	Education & research
+Simone	Müller	Uni St. Gallen	USG	Saint Gallen	Strategy Consultant	Boston Consulting Group	Consulting, public relations, legal & trust
+Luca	Bernasconi	Uni Lugano	USI	Lugano	Banking Executive	Banca dello Stato del Cantone Ticino	Financial industry & insurances
+Barbara	Stäubli	Uni Basel	UBA	Basel	Chemical Industry Executive	Clariant International Ltd.	Technology
+Viktor	Petrov	ETH Lausanne	EPF	Lausanne	Quantum Technology Entrepreneur	Cambridge Quantum Computing	Technology
+Anja	Koller	Uni Bern	UBE	Bern	Cancer Research Administrator	Swiss Cancer Research foundation	Pharma & health
+François	Morel	Uni Geneva	UGE	Geneva	Humanitarian Affairs Coordinator	International Committee of the Red Cross	Society, Social, Culture & Sports
+Reto	Amstutz	ETH Zurich	ETH	Zurich	Steel Industry Executive	Swiss Steel Holding AG	Industry, construction & agriculture
+Claudia	Richter	Uni Freiburg	UFR	Fribourg	Clinical Research Director	Pfizer Inc.	Pharma & health
+Giovanni	Martinelli	Uni Lugano	USI	Lugano	Online Banking Executive	Swissquote Bank SA	Financial industry & insurances
+Petra	Haas	Uni St. Gallen	USG	Saint Gallen	Insurance Company Director	Helvetia Holding AG	Financial industry & insurances
+Thierry	Blanc	ETH Lausanne	EPF	Lausanne	Digital Health Entrepreneur	MindMaze SA	Technology
+Ingrid	Zürcher	Uni Zurich	UZH	Zurich	Drug Regulatory Expert	European Medicines Agency	Pharma & health
+Carlo	Rossi	Uni Basel	UBA	Basel	Biotechnology Consultant	Biogen Inc.	Pharma & health
+Susanne	Lüthi	Uni Bern	UBE	Bern	Financial Services Executive	PostFinance Ltd.	Financial industry & insurances
+Alexandre	Dubey	Uni Lausanne	ULA	Lausanne	Economic Development Director	Vaud Economic Promotion	Commerce, trade & services
+Roland	Frei	ETH Zurich	ETH	Zurich	Metrology Institute Director	Federal Institute of Metrology METAS	Education & research
+Monica	Silva	Uni Geneva	UGE	Geneva	Trade Policy Advisor	World Trade Organization	Politics, administration, justice system & security sector
+Beat	Leuthold	Uni St. Gallen	USG	Saint Gallen	Healthcare Executive	Galenica Ltd.	Pharma & health
+Carla	Bettoni	ETH Lausanne	EPF	Lausanne	Cosmetics Research Director	L'Oréal Research & Innovation	Technology
+Jürgen	Klein	Uni Basel	UBA	Basel	Agribusiness Executive	Syngenta AG	Industry, construction & agriculture
+Nadia	Comte	Uni Neuenburg	UNE	Neuchâtel	Insurance Executive	Groupe Mutuel	Financial industry & insurances
+Stephan	Vogel	ETH Zurich	ETH	Zurich	Robotics Entrepreneur	Autonomous Systems Lab	Technology
+Patrizia	Gugger	Uni Freiburg	UFR	Fribourg	Medical Device Consultant	Medtronic International Trading Sàrl	Pharma & health
+Matthias	Jung	Uni Bern	UBE	Bern	Life Insurance Executive	Swiss Life Holding AG	Financial industry & insurances
+Isabelle	Moreau	Uni Geneva	UGE	Geneva	Labor Relations Expert	International Labour Organization	Politics, administration, justice system & security sector
+Christian	Wyss	Uni St. Gallen	USG	Saint Gallen	Asset Management Director	Credit Suisse Asset Management	Financial industry & insurances
+Laura	Colombo	Uni Lugano	USI	Lugano	Audit Partner	Ernst & Young AG	Consulting, public relations, legal & trust
+Dominik	Hauser	ETH Zurich	ETH	Zurich	Energy Policy Expert	Swiss Federal Office of Energy	Energy, environment & mobility
+Véronique	Leroy	ETH Lausanne	EPF	Lausanne	Biomedical Entrepreneur	Abionic SA	Pharma & health
+René	Moser	Uni Basel	UBA	Basel	Aviation Executive	Swiss International Air Lines AG	Commerce, trade & services
+Silvia	Tremp	Uni Zurich	UZH	Zurich	Venture Capital Partner	Roche Venture Fund	Financial industry & insurances
+Paolo	Gentile	Uni Lugano	USI	Lugano	Regional Bank Director	Banca del Sempione SA	Financial industry & insurances
+Katja	Brun	Uni Bern	UBE	Bern	Drug Development Scientist	Idorsia Pharmaceuticals Ltd.	Pharma & health
+Alain	Mermoud	Uni Lausanne	ULA	Lausanne	Cybersecurity Entrepreneur	LEXSI SA	Technology
+Werner	Staub	ETH Zurich	ETH	Zurich	Building Technology Executive	Geberit International AG	Industry, construction & agriculture
+Federica	Conti	Uni Geneva	UGE	Geneva	International Relations Officer	United Nations Office at Geneva	Politics, administration, justice system & security sector
+Christoph	Brenner	Uni St. Gallen	USG	Saint Gallen	Private Banking Executive	Julius Bär Group Ltd.	Financial industry & insurances
+Brigitte	Amstutz	Uni Basel	UBA	Basel	Medical Research Administrator	Swiss Academy of Medical Sciences	Pharma & health
+Giorgio	Marini	ETH Lausanne	EPF	Lausanne	Pharmaceutical Research Director	Merck Serono SA	Pharma & health
+Sandra	Neff	Uni Freiburg	UFR	Fribourg	Biotech Investment Director	Debiopharm Group	Pharma & health
+Urs	Kaufmann	ETH Zurich	ETH	Zurich	Transportation Executive	Swiss Federal Railways SBB	Commerce, trade & services
+Marta	Gonzalez	Uni Geneva	UGE	Geneva	Telecommunications Regulator	International Telecommunication Union	Technology
+Franz	Keller	Uni Bern	UBE	Bern	Insurance Group Executive	Die Mobiliar	Financial industry & insurances
+Elisa	Torriani	Uni Lugano	USI	Lugano	Management Consultant	PricewaterhouseCoopers AG	Consulting, public relations, legal & trust
+Rolf	Weber	Uni St. Gallen	USG	Saint Gallen	Insurance Company Director	Baloise Group	Financial industry & insurances
+Catherine	Martin	ETH Lausanne	EPF	Lausanne	Biotechnology Entrepreneur	NanoLive SA	Technology
+Bruno	Salzmann	Uni Basel	UBA	Basel	Postal Services Executive	Swiss Post Ltd.	Commerce, trade & services
+Annette	Widmer	Uni Zurich	UZH	Zurich	Pharmaceutical Executive	Idorsia Pharmaceuticals Ltd.	Pharma & health
+Luigi	Benedetti	Uni Lugano	USI	Lugano	Private Banking Director	Cornèr Banca SA	Financial industry & insurances
+Margrit	Hugentobler	ETH Zurich	ETH	Zurich	Environmental Policy Expert	Federal Office for the Environment	Energy, environment & mobility
+Jean-Paul	Clozel	Uni Lausanne	ULA	Lausanne	Pharmaceutical CEO	Idorsia Pharmaceuticals Ltd.	Pharma & health
+Klaus	Ritter	Uni St. Gallen	USG	Saint Gallen	Insurance Executive	Nationale Suisse Group	Financial industry & insurances
+Giulia	Ferro	Uni Geneva	UGE	Geneva	Research Scientist	European Organization for Nuclear Research	Education & research
+Marcel	Graf	Uni Bern	UBE	Bern	Hospital Executive	Insel Gruppe AG	Pharma & health
+Sophie	Blum	ETH Lausanne	EPF	Lausanne	Biotech Research Director	ADC Therapeutics SA	Pharma & health
+Roberto	Castelli	Uni Lugano	USI	Lugano	Private Banking Advisor	Banca del Ceresio SA	Financial industry & insurances
+Angela	Hofmann	Uni Basel	UBA	Basel	Medical Device Executive	Institut Straumann AG	Pharma & health
+Pierre	Grandjean	Uni Neuenburg	UNE	Neuchâtel	Cantonal Bank Director	Banque Cantonale Neuchâteloise	Financial industry & insurances
+Dieter	Schmitt	ETH Zurich	ETH	Zurich	Climate Technology Entrepreneur	Climeworks AG	Energy, environment & mobility
+Lucia	Romano	Uni Geneva	UGE	Geneva	Intellectual Property Expert	World Intellectual Property Organization	Politics, administration, justice system & security sector
+Thomas	Brunner	Uni St. Gallen	USG	Saint Gallen	Insurance Group Director	Helvetia Group	Financial industry & insurances
+Chiara	Bianchi	ETH Lausanne	EPF	Lausanne	Co-founder	Sophia Genetics	Technology
+Heinz	Müller	Uni Bern	UBE	Bern	Plasma Therapies Executive	CSL Behring AG	Pharma & health
+Frédéric	Dufour	Uni Lausanne	ULA	Lausanne	Foundation Director	Fondation Leenaards	Society, Social, Culture & Sports
+Marco	Schmid	Uni Basel	UBA	Basel	Private Hospital Director	Merian Iselin Klinik AG	Pharma & health
+Elisabeth	Kessler	ETH Zurich	ETH	Zurich	Nuclear Safety Inspector	Swiss Federal Nuclear Safety Inspectorate ENSI	Politics, administration, justice system & security sector
+Stefano	Moret	Uni Lugano	USI	Lugano	Audit Partner	KPMG AG	Consulting, public relations, legal & trust
+Anita	Rauch	Uni Zurich	UZH	Zurich	Diagnostic Research Director	Roche Diagnostics International Ltd.	Pharma & health
+Bernard	Levrat	Uni Geneva	UGE	Geneva	University Hospital Director	Geneva University Hospitals	Pharma & health
+Markus	Hengstschläger	Uni St. Gallen	USG	Saint Gallen	Cooperative Bank Executive	Raiffeisen Switzerland	Financial industry & insurances
+Valentina	Greco	ETH Lausanne	EPF	Lausanne	Dermatology Research Director	Galderma R&D	Pharma & health
+Philipp	Gut	Uni Bern	UBE	Bern	Energy Company Executive	BKW AG	Energy, environment & mobility
+Céline	Robert	Uni Neuenburg	UNE	Neuchâtel	Innovation Hub Director	Microcity	Education & research
+Andrea	Carbone	Uni Lugano	USI	Lugano	Regional Bank Executive	Crédit Agricole (Suisse) SA	Financial industry & insurances
+Regula	Stämpfli	Uni Basel	UBA	Basel	Nutrition Science Coordinator	Swiss Society for Nutrition Research	Pharma & health
+Jean-Claude	Badoux	ETH Lausanne	EPF	Lausanne	Technology Consultant	Logitech Europe S.A.	Technology
+Uwe	Sauer	ETH Zurich	ETH	Zurich	Nutrition Research Director	DSM Nutritional Products Ltd.	Industry, construction & agriculture
+Marie-France	Pochon	Uni Geneva	UGE	Geneva	Humanitarian Coordinator	International Committee of the Red Cross	Society, Social, Culture & Sports
+Daniel	Buser	Uni Basel	UBA	Basel	Dental Implant Company Advisor	Institut Straumann AG	Pharma & health
+Claudio	Bassetti	Uni Bern	UBE	Bern	Neurology Society President	Swiss Neurological Society	Pharma & health
+Yves	Miéville	Uni Lausanne	ULA	Lausanne	Insurance Company Board Member	Vaudoise Assurances Holding SA	Financial industry & insurances
+Sabina	Bieri	ETH Zurich	ETH	Zurich	Innovation Agency Evaluator	Swiss Innovation Agency Innosuisse	Education & research
+Francesco	Stellacci	ETH Lausanne	EPF	Lausanne	Nanotechnology Consultant	Spaemann Technologies AG	Technology
+Markus	Greber	Uni St. Gallen	USG	Saint Gallen	Insurance Company Executive	Allianz Suisse Lebensversicherungs-Gesellschaft AG	Financial industry & insurances
+Carla	Spagnoli	Uni Lugano	USI	Lugano	Investment Bank Executive	Banca Credinvest SA	Financial industry & insurances
+Ruth	Genner	Uni Zurich	UZH	Zurich	Member of Parliament	Swiss Federal Assembly	Politics, administration, justice system & security sector
+Antoine	Geissbuhler	Uni Geneva	UGE	Geneva	Health Informatics Advisor	World Health Organization	Politics, administration, justice system & security sector
+Beat	Richner	Uni Basel	UBA	Basel	Pediatric Hospital Founder	Kantha Bopha Children's Hospitals	Society, Social, Culture & Sports
+Lorenz	Hurni	ETH Zurich	ETH	Zurich	Cartography Institute Board Member	Federal Office of Topography swisstopo	Politics, administration, justice system & security sector
+Nathalie	Chèvre	Uni Lausanne	ULA	Lausanne	Environmental Assessment Expert	Federal Office for the Environment	Energy, environment & mobility
+Rainer	Wodrich	Uni St. Gallen	USG	Saint Gallen	Verwaltungsrat	Bâloise Holding AG	Financial industry & insurances
+Giovanna	Rizzo	ETH Lausanne	EPF	Lausanne	Cell Therapy Entrepreneur	Cellestia Biotech AG	Pharma & health
+Hannes	Germann	Uni Basel	UBA	Basel	Council of States Member	Swiss Federal Assembly	Politics, administration, justice system & security sector
+Felix	Würsten	ETH Zurich	ETH	Zurich	Verwaltungsrat	Swissgrid Ltd.	Energy, environment & mobility
+Caroline	Vandevyver	Uni Geneva	UGE	Geneva	Aviation Industry Advisor	International Air Transport Association	Commerce, trade & services
+Paolo	Arrigoni	Uni Lugano	USI	Lugano	Management Consultant	Deloitte AG	Consulting, public relations, legal & trust
+Susanne	Bickel	Uni Basel	UBA	Basel	Archaeological Society Board Member	Swiss Society for Ancient Near Eastern Studies	Society, Social, Culture & Sports
+Christiane	Wendehorst	Uni St. Gallen	USG	Saint Gallen	Legal Institute Advisory Board	European Law Institute	Consulting, public relations, legal & trust
+Michel	Bierlaire	ETH Lausanne	EPF	Lausanne	Transportation Planning Consultant	Transitec Ingénieurs-Conseils SA	Consulting, public relations, legal & trust
+Walter	Steinlin	ETH Zurich	ETH	Zurich	Energy Company Executive	Axpo Holding AG	Energy, environment & mobility
+Fabienne	Crettaz von Roten	Uni Lausanne	ULA	Lausanne	Science Communication Expert	Science et Cité	Education & research
+Giovanna	Bochicchio	Uni Lugano	USI	Lugano	Chamber of Commerce Executive	Camera di Commercio Italiana per la Svizzera	Commerce, trade & services
+Patricia	Danzi	Uni Geneva	UGE	Geneva	Directrice	Swiss Agency for Development and Cooperation	Politics, administration, justice system & security sector
+Michael	Hengartner	ETH Zurich	ETH	Zurich	University System President	swissuniversities	Education & research
+Laurent	Mellier	Uni Lausanne	ULA	Lausanne	University Hospital Medical Director	Lausanne University Hospital	Pharma & health
+Sergio	Rossi	Uni Lugano	USI	Lugano	Private Banking Economic Advisor	Banca del Gottardo SA	Financial industry & insurances
+Katharina	Fromm	Uni Freiburg	UFR	Fribourg	Natural Sciences Academy Vice President	Swiss Academy of Sciences	Education & research
+Jean-Marc	Piveteau	ETH Zurich	ETH	Zurich	Railway Cargo Executive	SBB Cargo AG	Commerce, trade & services
+Martine	Rebetez	Uni Neuenburg	UNE	Neuchâtel	Climate Research Expert	Federal Office of Meteorology and Climatology MeteoSwiss	Energy, environment & mobility
+Giuseppe	Melfi	Uni Lausanne	ULA	Lausanne	International Mathematics Professor	University of Tunis El Manar	Education & research
+Bruno	Staffelbach	Uni St. Gallen	USG	Saint Gallen	Verwaltungsrat	Mammut Sports Group AG	Commerce, trade & services
+Cristina	Amon	ETH Zurich	ETH	Zurich	Engineering Faculty Dean	University of Toronto	Education & research
+François	Bregha	Uni Geneva	UGE	Geneva	Senior Advisor	International Committee of the Red Cross	Society, Social, Culture & Sports
+Silvia	Decurtins	Uni Basel	UBA	Basel	Board Member	Swiss Chemical Society	Education & research
+Alessandro	Curioni	ETH Zurich	ETH	Zurich	Director	IBM Research Zurich	Technology
+Marie-Christine	Lemardeley	ETH Lausanne	EPF	Lausanne	Scientific Advisor	Firmenich SA	Technology
+Roberto	Bonzio	Uni Lugano	USI	Lugano	Advisory Board	Lugano Airport	Commerce, trade & services
+Heidi	Hanselmann	Uni St. Gallen	USG	Saint Gallen	State Councilor	Canton of St. Gallen	Politics, administration, justice system & security sector
+Catherine	Deharveng	Uni Geneva	UGE	Geneva	Director	European Space Agency	Education & research
+Marcel	Salathé	ETH Lausanne	EPF	Lausanne	Co-founder	Epidemium Platform	Technology
