@@ -1,3 +1,4 @@
+import os
 import sys
 import asyncio
 from mcp import ClientSession, StdioServerParameters
@@ -45,12 +46,12 @@ async def call_llm_with_context(user_query: str):
     # Combine the resource and prompt text
     full_prompt = prompt_text + "\n\nSupported currencies:\n" + resource_text
 
-    client = genai.Client(api_key="<GOOGLE_API_KEY>")
+    client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
     mcp_tools = await get_tools_from_mcp()
     gemini_tool = types.Tool(
         function_declarations=[
             types.FunctionDeclaration(
-                name=t.name, description=t.description or "", parameters=t.inputSchema
+                name=t.name, description=t.description or "", parameters=t.input_schema
             )
             for t in mcp_tools
         ]
@@ -59,7 +60,7 @@ async def call_llm_with_context(user_query: str):
     # Send full_prompt (as a user message) and the tools list to the model
     contents = [types.Content(role="user", parts=[types.Part(text=full_prompt)])]
     response = client.models.generate_content(
-        model="gemini-2.5-flash",
+        model="gemini-3.6-flash",
         contents=contents,
         config=types.GenerateContentConfig(tools=[gemini_tool]),
     )
@@ -90,7 +91,7 @@ async def call_llm_with_context(user_query: str):
         )
     )
     followup = client.models.generate_content(
-        model="gemini-2.5-flash",
+        model="gemini-3.6-flash",
         contents=contents,
         config=types.GenerateContentConfig(tools=[gemini_tool]),
     )

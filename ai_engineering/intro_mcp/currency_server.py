@@ -70,7 +70,7 @@ conn.row_factory = sqlite3.Row
 # print(convert_currency(10, "USD", "EUR"))
 
 @mcp.tool()
-def convert_currency(amount, from_currency, to_currency):
+def convert_currency(amount: float, from_currency: str, to_currency: str):
     """
     Convert an amount from one currency to another using current exchange rates.
 
@@ -83,13 +83,16 @@ def convert_currency(amount, from_currency, to_currency):
         A string with the conversion result and exchange rate
     """
 
+    amount = float(amount)
     # Fake API response
     rates = {
         "USD": {"EUR": 0.91, "GBP": 0.78, "USD": 1.0},
         "EUR": {"USD": 1.1, "GBP": 0.85, "EUR": 1.0},
         "GBP": {"USD": 1.28, "EUR": 1.18, "GBP": 1.0}
     }
-    rate = rates.get(from_currency, 0.0).get(to_currency, 0.0)  # Example fixed exchange rate
+    rate = rates.get(from_currency, {}).get(to_currency, 0.0)  # Example fixed exchange rate
+    print(f"amount: {type(amount)}")
+    print(f"rate: {type(rate)}")
     converted_amount = amount * rate
     return f"{amount} {from_currency} = {converted_amount:.2f} {to_currency} (Rate: {rate})"
 
@@ -160,23 +163,6 @@ def get_currencies() -> str:
     except sqlite3.Error as e: return f"Error: {e}"
 # result = get_currencies()
 # print(result[:200] + "..." if len(result) > 200 else result)
-
-# Add lookup_currencies(prefix): find rows where name or code contains prefix from a db
-@mcp.tool()
-def lookup_currencies(prefix: str) -> str:
-    """Find currencies whose code or name contains the given prefix."""
-    try:
-        # Use parameterized query and LIMIT 50
-        cursor = conn.execute(
-            "SELECT code, name FROM currencies WHERE name LIKE ? OR code LIKE ? LIMIT 50",
-            (f"%{prefix}%", f"%{prefix}%"),
-        )
-        rows = cursor.fetchall()
-        return "\n".join(f"{row['code']} - {row['name']}" for row in rows)
-    except sqlite3.Error as e:
-        return f"Database error: {e}"
-
-# print(lookup_currencies("Euro"))
 
 if __name__ == "__main__":
     mcp.run()
