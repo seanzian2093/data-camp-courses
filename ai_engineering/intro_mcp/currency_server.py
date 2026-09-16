@@ -1,4 +1,3 @@
-import requests
 import sqlite3
 from mcp.server.mcpserver import MCPServer
 
@@ -39,7 +38,7 @@ conn.row_factory = sqlite3.Row
 #     # 3. Calculate the converted amount
 #     converted_amount = amount * rate
 #     return f"{amount} {from_currency} = {converted_amount:.2f} {to_currency} (Rate: {rate})"
-      
+
 # @mcp.tool()
 # def convert_currency_robust(amount: float, from_currency: str, to_currency: str) -> str:
 #     """
@@ -69,6 +68,7 @@ conn.row_factory = sqlite3.Row
 
 # print(convert_currency(10, "USD", "EUR"))
 
+
 @mcp.tool()
 def convert_currency(amount: float, from_currency: str, to_currency: str):
     """
@@ -88,13 +88,14 @@ def convert_currency(amount: float, from_currency: str, to_currency: str):
     rates = {
         "USD": {"EUR": 0.91, "GBP": 0.78, "USD": 1.0},
         "EUR": {"USD": 1.1, "GBP": 0.85, "EUR": 1.0},
-        "GBP": {"USD": 1.28, "EUR": 1.18, "GBP": 1.0}
+        "GBP": {"USD": 1.28, "EUR": 1.18, "GBP": 1.0},
     }
-    rate = rates.get(from_currency, {}).get(to_currency, 0.0)  # Example fixed exchange rate
-    print(f"amount: {type(amount)}")
-    print(f"rate: {type(rate)}")
+    rate = rates.get(from_currency, {}).get(
+        to_currency, 0.0
+    )  # Example fixed exchange rate
     converted_amount = amount * rate
     return f"{amount} {from_currency} = {converted_amount:.2f} {to_currency} (Rate: {rate})"
+
 
 # Define a resource for the currencies file
 @mcp.resource("file://currencies.txt")
@@ -107,11 +108,12 @@ def get_currencies() -> str:
     """
     # Open currencies.txt and read the data
     try:
-        with open('currencies.txt', 'r') as f:
+        with open("currencies.txt", "r") as f:
             content = f.read()
         return content
     except FileNotFoundError:
         return "currencies.txt file not found"
+
 
 # Define a prompt for currency conversion
 @mcp.prompt(title="Currency Conversion")
@@ -129,6 +131,7 @@ Rules:
 
 User's currency conversion request: {currency_request}"""
 
+
 # Add lookup_currencies(prefix): find rows where name or code contains prefix
 @mcp.tool()
 def lookup_currencies(prefix: str) -> str:
@@ -144,7 +147,9 @@ def lookup_currencies(prefix: str) -> str:
     except sqlite3.Error as e:
         return f"Database error: {e}"
 
+
 # print(lookup_currencies("Euro"))
+
 
 # Create an MCP resource of database
 @mcp.resource("db://currencies")
@@ -160,7 +165,10 @@ def get_currencies() -> str:
         cursor = conn.execute("SELECT code, name FROM currencies")
         rows = cursor.fetchall()
         return "\n".join(f"{row['code']} - {row['name']}" for row in rows)
-    except sqlite3.Error as e: return f"Error: {e}"
+    except sqlite3.Error as e:
+        return f"Error: {e}"
+
+
 # result = get_currencies()
 # print(result[:200] + "..." if len(result) > 200 else result)
 
