@@ -13,7 +13,7 @@ async def summarize(text_to_summarize: str, ctx: Context):
         {text_to_summarize}
     """
 
-    result = await ctx.session.sampling.create_message(
+    result = await ctx.session.create_message(
         messages=[
             SamplingMessage(role="user", content=TextContent(type="text", text=prompt))
         ],

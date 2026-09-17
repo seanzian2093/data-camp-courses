@@ -1,10 +1,11 @@
+import os
 import asyncio
 import sys
 from google import genai
 from google.genai import types
 from mcp import ClientSession, StdioServerParameters
 from mcp.client.stdio import stdio_client
-from mcp.client.session import RequestContext
+from mcp.client.session import ClientRequestContext
 from mcp.types import (
     CreateMessageRequestParams,
     CreateMessageResult,
@@ -12,8 +13,8 @@ from mcp.types import (
     SamplingMessage,
 )
 
-genai_client = genai.Client()
-model = "gemini-2.5-flash"
+genai_client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
+model = "gemini-3.6-flash"
 
 server_params = StdioServerParameters(
     command=sys.executable,
@@ -41,7 +42,7 @@ async def chat(input_messages: list[SamplingMessage], max_tokens=4000):
 
 
 async def sampling_callback(
-    context: RequestContext, params: CreateMessageRequestParams
+    context: ClientRequestContext, params: CreateMessageRequestParams
 ):
     # Call Gemini using the Google GenAI SDK
     text = await chat(params.messages)
